@@ -1,0 +1,23 @@
+{
+  "name": "using-react-redux",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "formik": "^2.2.9",
+    "next": "12.0.7",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.37",
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.7"
+  }
+}
